@@ -10,21 +10,19 @@ No trabalho dessa semana vamos alterar o projeto para que a responsividade da ho
 
 ## Informações Gerais
 
-- Nome: Karolina Carvalho Soares Martins
-- Matricula: 916874
-- Proposta de projeto escolhida: Site temático sobre Harry Potter
-- Breve descrição sobre seu projeto: Um site inspirado no universo de Harry Potter, com interações que vão desde seção de filmes, personagens, casas de Hogwarts e feitiços mais famosos, até o mundo mágico (locais importantes) e quizzes interativos.
+- Nome: 
+- Matricula: 
+- Proposta de projeto escolhida: 
+- Breve descrição sobre seu projeto: 
 
 ## Print da versão responsiva com Bootstrap [DESKTOP]
 <<  COLOQUE A IMAGEM AQUI >>
 
-![Desktop](/imgs/print1.png)
 
 ## Print da versão responsiva com Bootstrap [MOBILE] (*)
 
 <<  COLOQUE A IMAGEM AQUI >>
 
-![Mobile](/imgs/print2.png)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 
